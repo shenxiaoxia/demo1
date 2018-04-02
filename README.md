@@ -1,2 +1,2 @@
-# demo1
-this is my demo application in the Ruby on Rails tutorial.
+组员：连敏江 201511060113
+组员：沈晓霞 201511060110
